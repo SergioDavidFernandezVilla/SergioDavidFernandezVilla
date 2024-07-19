@@ -1,6 +1,8 @@
 ✨ _Bienvenido a mi repositorio de GitHub_ ✨
 
-## Hola, soy Sergio David Fernández Villa
+## 👋 Hola, soy Sergio David Fernández Villa
+
+![Vista previa del proyecto carrito de compras 🛒](Frontend/public/imagesPreview/imagen__preview__carrito.PNG)
 
 ### Sobre mí
 
