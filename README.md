@@ -1,8 +1,6 @@
-
 <img src="presentacion__git__edit.png" width="100%" />
 
 ## Soy un Desarrollador Web Frontend 💻
-
 
 ### Sobre mí
 
@@ -10,15 +8,17 @@ Soy un desarrollador apasionado con experiencia en React, Vite y Node.js como ba
 
 ### 🚀 Proyectos Actuales
 - 🔭 Actualmente estoy trabajando en una aplicación web con React y Vite, utilizando Node.js para el backend.
-- 🌱 Estoy aprendiendo sobre la instalación y configuración de OpenCV en sistemas Windows y explorando alternativas para el manejo de imágenes en Rust.
+- 📖 Estoy haciendo proyectos con su Frontend y backend, utilizando React, Node.j para continuar aprendiendo y mejorando mis habilidades en tecnologías frontend y backend.
 
 ### 🤝 Colaboración
-- 👯 Estoy buscando colaborar en proyectos de desarrollo web, especialmente aquellos que utilizan React, Node.js.
-
+- 👯 Estoy buscando colaborar en proyectos de desarrollo web, especialmente aquellos que utilizan React y Node.js.
 
 ### 📬 Contacto
-- 📫 Puedes contactarme a través de mi correo 📧: sergiodavidfernandezdev@gmail.com 
-- 💬 Mi perfil en LinkedIn: https://www.linkedin.com/in/sergio-david-fern%C3%A1ndez-villa-6b86b328b
+- 📧 Puedes contactarme a través de mi correo: [sergiodavidfernandezdev@gmail.com](mailto:sergiodavidfernandezdev@gmail.com)
+- 💼 Mi perfil en LinkedIn: [Sergio David Fernández Villa](https://www.linkedin.com/in/sergio-david-fern%C3%A1ndez-villa-6b86b328b)
+
+### 🌟 Datos Curiosos
+- ⚡ Dato curioso: Me encanta aprender sobre nuevas tecnologías y compartir mis conocimientos con la comunidad.
 
 Gracias por visitar mi perfil. ¡Espero colaborar contigo pronto!
 
