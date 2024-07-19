@@ -1,23 +1,34 @@
 <img src="presentacion__git__edit.png" width="100%" />
 
-<h2>Soy un Desarrollador Web Frontend 💻</h2>
+<h2 style="text-align: center;">Soy un Desarrollador Web Frontend 💻</h2>
 
 <h3>Sobre mí</h3>
 
 <p>Soy un desarrollador apasionado con experiencia en React, Vite y Node.js como backend. También tengo habilidades en CSS y HTML puro, y estoy continuamente aprendiendo y mejorando mis habilidades en tecnologías frontend y backend.</p>
 
-<div>
-  <h3>Tecnologias que conozco y utilizo</h3>
-
-  ### Tecnologías que mas utilizo
-  <img src="/icons/svg__react.svg" width="20" height="20" /> <strong>React</strong>
-  <img src="/icons/svg__javascript.svg" width="20" height="20" />  <strong>JavaScript</strong>
-  <img src="/icons/svg__node.svg" width="20" height="20" /> <strong>Node.js</strong>
-  <img src="/icons/svg__css.svg" width="20" height="20" />  <strong>CSS</strong>
-  <img src="/icons/svg__html.svg" width="20" height="20" />  <strong>HTML</strong>
-  
-
-</div>
+<h3>Tecnologías que conozco y utilizo</h3>
+<p style="display: flex; justify-content: space-around; align-items: center;">
+  <span>
+    <img src="/icons/svg__react.svg" width="20" height="20" />
+    <strong>React</strong>
+  </span>
+  <span>
+    <img src="/icons/svg__javascript.svg" width="20" height="20" />
+    <strong>JavaScript</strong>
+  </span>
+  <span>
+    <img src="/icons/svg__node.svg" width="20" height="20" />
+    <strong>Node.js</strong>
+  </span>
+  <span>
+    <img src="/icons/svg__css.svg" width="20" height="20" />
+    <strong>CSS</strong>
+  </span>
+  <span>
+    <img src="/icons/svg__html.svg" width="20" height="20" />
+    <strong>HTML</strong>
+  </span>
+</p>
 
 <h3>🚀 Proyectos Actuales</h3>
 <ul>
@@ -42,18 +53,3 @@
 </ul>
 
 <p>Gracias por visitar mi perfil. ¡Espero colaborar contigo pronto!</p>
-
-<!--
-**SergioDavidFernandezVilla/SergioDavidFernandezVilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
