@@ -1,5 +1,5 @@
 
-![Vista previa del proyecto carrito de compras 🛒](foto__bienvenida.png)
+![Vista previa del proyecto carrito de compras 🛒](presentacion__git__edit.png)
 
 ## 👋 Hola, soy Sergio David Fernández Villa
 
