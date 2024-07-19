@@ -44,12 +44,12 @@
   </span>
 </div>
 
-#### Otras Tecnologias que conozco y utilizo 💻
+### Otras Tecnologias que conozco y utilizo 💻
 
-- Python
-- C++ 
-- Rust
-- Java
+- Python [!["Icono de Python"](/icons/svg__python.svg)]
+- C++  [!["Icono de c++"](/icons/svg__c++.svg)]
+- Rust [!["Icono de Rust"](/icons/svg__rust.svg)]
+- Java [!["Icono de Java"](/icons/svg__java.svg)]
 
 
 <h3>🚀 Proyectos Actuales</h3>
