@@ -1,4 +1,4 @@
-<img src="presentacion__git__edit.png" width="100%" />
+<img src="/images/presentacion__git__edit.png" width="100%" />
 
 <h2 style="text-align: center;">Soy un Desarrollador Web Frontend 💻</h2>
 
@@ -11,24 +11,36 @@
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
   <span style="margin: 10px;">
     <img src="/icons/svg__react.svg" width="20" height="20" />
-    <strong>React</strong>
+    <strong>React js</strong>
   </span>
+
+
   <span style="margin: 10px;">
     <img src="/icons/svg__javascript.svg" width="20" height="20" />
     <strong>JavaScript</strong>
   </span>
+
+
   <span style="margin: 10px;">
     <img src="/icons/svg__node.svg" width="20" height="20" />
     <strong>Node.js</strong>
   </span>
+
+
   <span style="margin: 10px;">
     <img src="/icons/svg__css.svg" width="20" height="20" />
     <strong>CSS</strong>
   </span>
+
+
   <span style="margin: 10px;">
     <img src="/icons/svg__html.svg" width="20" height="20" />
     <strong>HTML</strong>
   </span>
+
+  <span style="margin: 10px;">
+    <img src="/icons/icon__astro.png" width="20" height="20" />
+    <strong>Astro js</strong>
 </div>
 
 <h3>🚀 Proyectos Actuales</h3>
