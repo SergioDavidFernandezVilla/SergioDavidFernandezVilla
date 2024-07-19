@@ -1,8 +1,5 @@
 
 <img src="presentacion__git 1.png" width="100%" height="400px" />
-=======
-
-![Vista previa del proyecto carrito de compras 🛒](presentacion__git__edit.png)
 
 ## Soy un Desarrollador Web Frontend 💻
 
