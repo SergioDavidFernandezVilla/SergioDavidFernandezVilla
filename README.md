@@ -6,7 +6,7 @@
 
 <p>Soy un desarrollador apasionado con experiencia en React, Vite y Node.js como backend. También tengo habilidades en CSS y HTML puro, y estoy continuamente aprendiendo y mejorando mis habilidades en tecnologías frontend y backend.</p>
 
-<h3>Tecnologías que conozco y utilizo</h3>
+### Tecnologías que conozco y utilizo
 
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
   <span style="margin: 10px;">
@@ -26,6 +26,11 @@
     <strong>Node.js</strong>
   </span>
 
+  
+  <span style="margin: 10px;">
+    <img src="/icons/icon__astro.png" width="20" height="20" />
+    <strong>Astro js</strong>
+  </span>
 
   <span style="margin: 10px;">
     <img src="/icons/svg__css.svg" width="20" height="20" />
@@ -37,11 +42,15 @@
     <img src="/icons/svg__html.svg" width="20" height="20" />
     <strong>HTML</strong>
   </span>
-
-  <span style="margin: 10px;">
-    <img src="/icons/icon__astro.png" width="20" height="20" />
-    <strong>Astro js</strong>
 </div>
+
+#### Otras Tecnologias que conozco y utilizo 💻
+
+- Python
+- C++ 
+- Rust
+- Java
+
 
 <h3>🚀 Proyectos Actuales</h3>
 <ul>
