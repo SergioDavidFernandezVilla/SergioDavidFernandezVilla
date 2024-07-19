@@ -9,12 +9,12 @@
 <div>
   <h3>Tecnologias que conozco y utilizo</h3>
 
-  <h4>Tecnologías que mas utilizo</h4>
-  <img src="/icons/svg__react.svg" width="20" height="20" /> <p><strong>React</strong></p>
-  <img src="/icons/svg__javascript.svg" width="20" height="20" /> <p><strong>React</strong></p>
-  <img src="/icons/svg__node.svg" width="20" height="20" /> <p><strong>React</strong></p>
-  <img src="/icons/svg__css.svg" width="20" height="20" /> <p><strong>React</strong></p>
-  <img src="/icons/svg__html.svg" width="20" height="20" /> <p><strong>React</strong></p>
+  ### Tecnologías que mas utilizo
+  <img src="/icons/svg__react.svg" width="20" height="20" /> <strong>React</strong>
+  <img src="/icons/svg__javascript.svg" width="20" height="20" />  <strong>JavaScript</strong>
+  <img src="/icons/svg__node.svg" width="20" height="20" /> <strong>Node.js</strong>
+  <img src="/icons/svg__css.svg" width="20" height="20" />  <strong>CSS</strong>
+  <img src="/icons/svg__html.svg" width="20" height="20" />  <strong>HTML</strong>
   
 
 </div>
