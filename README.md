@@ -1,4 +1,11 @@
+
 <img src="presentacion__git 1.png" width="100%" height="400px" />
+=======
+
+![Vista previa del proyecto carrito de compras 🛒](presentacion__git__edit.png)
+
+## Soy un Desarrollador Web Frontend 💻
+
 
 ### Sobre mí
 
@@ -13,8 +20,8 @@ Soy un desarrollador apasionado con experiencia en React, Vite y Node.js como ba
 
 
 ### 📬 Contacto
-- 📫 Puedes contactarme a través de https://www.linkedin.com/in/sergio-david-fern%C3%A1ndez-villa-6b86b328b
-- 💬 Pregúntame sobre desarrollo web, Rust, y CLI. ¡Estoy aquí para ayudar!
+- 📫 Puedes contactarme a través de mi correo 📧: sergiodavidfernandezdev@gmail.com 
+- 💬 Mi perfil en LinkedIn: https://www.linkedin.com/in/sergio-david-fern%C3%A1ndez-villa-6b86b328b
 
 Gracias por visitar mi perfil. ¡Espero colaborar contigo pronto!
 
