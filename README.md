@@ -7,12 +7,15 @@
 <p>Soy un desarrollador apasionado con experiencia en React, Vite y Node.js como backend. También tengo habilidades en CSS y HTML puro, y estoy continuamente aprendiendo y mejorando mis habilidades en tecnologías frontend y backend.</p>
 
 <div>
-  <h3>Tecnologías</h3>
+  <h3>Tecnologias que conozco y utilizo</h3>
 
-  <img src="/icons/svg__react.svg" width="20" height="20" /> React
-  <img src="/icons/svg__css.svg" width="20" height="20" /> CSS
-  <img src="/icons/svg__html.svg" width="20" height="20" /> HTML
-  <img src="/icons/svg__javascript.svg" width="20" height="20" /> JavaScript
+  <h4>Tecnologías que mas utilizo</h4>
+  <img src="/icons/svg__react.svg" width="20" height="20" /> <p><strong>React</strong></p>
+  <img src="/icons/svg__javascript.svg" width="20" height="20" /> <p><strong>React</strong></p>
+  <img src="/icons/svg__node.svg" width="20" height="20" /> <p><strong>React</strong></p>
+  <img src="/icons/svg__css.svg" width="20" height="20" /> <p><strong>React</strong></p>
+  <img src="/icons/svg__html.svg" width="20" height="20" /> <p><strong>React</strong></p>
+  
 
 </div>
 
