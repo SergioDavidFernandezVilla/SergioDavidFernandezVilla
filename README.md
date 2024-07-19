@@ -7,7 +7,7 @@
 <p>Soy un desarrollador apasionado con experiencia en React, Vite y Node.js como backend. También tengo habilidades en CSS y HTML puro, y estoy continuamente aprendiendo y mejorando mis habilidades en tecnologías frontend y backend.</p>
 
 <h3>Tecnologías que conozco y utilizo</h3>
-<p style="display: flex; justify-content: space-around; align-items: center; margin-left:20px;">
+<p style="display: flex; justify-content: space-around; align-items: center; gap: 20px;">
   <span>
     <img src="/icons/svg__react.svg" width="20" height="20" />
     <strong>React</strong>
