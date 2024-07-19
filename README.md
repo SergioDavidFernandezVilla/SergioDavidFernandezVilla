@@ -46,10 +46,36 @@
 
 ### Otras Tecnologias que conozco y utilizo 💻
 
-- Python [!["Icono de Python"](/icons/svg__python.svg)]
-- C++  [!["Icono de c++"](/icons/svg__c++.svg)]
-- Rust [!["Icono de Rust"](/icons/svg__rust.svg)]
-- Java [!["Icono de Java"](/icons/svg__java.svg)]
+<ul>
+  <li>
+    <span style="margin: 10px;">
+    <img src="/icons/svg__python.svg" width="20" height="20" />
+    <strong>Python</strong>
+  </span>
+  </li>
+
+  <li>
+    <span style="margin: 10px;">
+    <img src="/icons/svg__c++.svg" width="20" height="20" />
+    <strong>C++</strong>
+  </span>
+  </li>
+
+  <li>
+    <span style="margin: 10px;">
+    <img src="/icons/svg__rust.svg" width="20" height="20" />
+    <strong>Rust</strong>
+  </span>
+  </li>
+
+  <li>
+    <span style="margin: 10px;">
+    <img src="/icons/svg__java.svg" width="20" height="20" />
+    <strong>Java</strong>
+  </span>
+  </li> 
+
+</ul>
 
 
 <h3>🚀 Proyectos Actuales</h3>
