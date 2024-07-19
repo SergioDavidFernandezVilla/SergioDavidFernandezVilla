@@ -6,11 +6,17 @@
 
 <p>Soy un desarrollador apasionado con experiencia en React, Vite y Node.js como backend. También tengo habilidades en CSS y HTML puro, y estoy continuamente aprendiendo y mejorando mis habilidades en tecnologías frontend y backend.</p>
 
+<<<<<<< HEAD
 <h3>🚀 Proyectos Actuales</h3>
 <ul>
   <li>🔭 Actualmente estoy trabajando en una aplicación web con React y Vite, utilizando Node.js para el backend.</li>
   <li>🌱 Estoy aprendiendo sobre la instalación y configuración de OpenCV en sistemas Windows y explorando alternativas para el manejo de imágenes en Rust.</li>
 </ul>
+=======
+### 🚀 Proyectos Actuales
+- 🔭 Actualmente estoy trabajando en una aplicación web con React y Vite, utilizando Node.js para el backend.
+- 🛍 Estoy trabajando en un proyecto de una tienda en linea desde frontend incluyendo su respectivo backend.
+>>>>>>> a206a5aba3927c4111c017f31a09a6dfb5317e64
 
 <h3>🤝 Colaboración</h3>
 <ul>
