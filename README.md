@@ -1,26 +1,36 @@
 <img src="presentacion__git__edit.png" width="100%" />
 
-## Soy un Desarrollador Web Frontend 💻
+<h2>Soy un Desarrollador Web Frontend 💻</h2>
 
-### Sobre mí
+<h3>Sobre mí</h3>
 
-Soy un desarrollador apasionado con experiencia en React, Vite y Node.js como backend. También tengo habilidades en CSS y HTML puro, y estoy continuamente aprendiendo y mejorando mis habilidades en tecnologías frontend y backend.
+<p>Soy un desarrollador apasionado con experiencia en React, Vite y Node.js como backend. También tengo habilidades en CSS y HTML puro, y estoy continuamente aprendiendo y mejorando mis habilidades en tecnologías frontend y backend.</p>
 
-### 🚀 Proyectos Actuales
-- 🔭 Actualmente estoy trabajando en una aplicación web con React y Vite, utilizando Node.js para el backend.
-- 📖 Estoy haciendo proyectos con su Frontend y backend, utilizando React, Node.j para continuar aprendiendo y mejorando mis habilidades en tecnologías frontend y backend.
+<h3>🚀 Proyectos Actuales</h3>
+<ul>
+  <li>🔭 Actualmente estoy trabajando en una aplicación web con React y Vite, utilizando Node.js para el backend.</li>
+  <li>🌱 Estoy aprendiendo sobre la instalación y configuración de OpenCV en sistemas Windows y explorando alternativas para el manejo de imágenes en Rust.</li>
+</ul>
 
-### 🤝 Colaboración
-- 👯 Estoy buscando colaborar en proyectos de desarrollo web, especialmente aquellos que utilizan React y Node.js.
+<h3>🤝 Colaboración</h3>
+<ul>
+  <li>👯 Estoy buscando colaborar en proyectos de desarrollo web, especialmente aquellos que utilizan React y Node.js.</li>
+  <li>🤔 Busco ayuda con la integración de bibliotecas de manejo de imágenes en Rust y optimización de aplicaciones React.</li>
+</ul>
 
-### 📬 Contacto
-- 📧 Puedes contactarme a través de mi correo: [sergiodavidfernandezdev@gmail.com](mailto:sergiodavidfernandezdev@gmail.com)
-- 💼 Mi perfil en LinkedIn: [Sergio David Fernández Villa](https://www.linkedin.com/in/sergio-david-fern%C3%A1ndez-villa-6b86b328b)
+<h3>📬 Contacto</h3>
+<ul>
+  <li>📧 Puedes contactarme a través de mi correo: <a href="mailto:sergiodavidfernandezdev@gmail.com">sergiodavidfernandezdev@gmail.com</a></li>
+  <li>💼 Mi perfil en LinkedIn: <a href="https://www.linkedin.com/in/sergio-david-fern%C3%A1ndez-villa-6b86b328b">Sergio David Fernández Villa</a></li>
+</ul>
 
-### 🌟 Datos Curiosos
-- ⚡ Dato curioso: Me encanta aprender sobre nuevas tecnologías y compartir mis conocimientos con la comunidad.
+<h3>🌟 Datos Curiosos</h3>
+<ul>
+  <li>😄 Pronombres: Él</li>
+  <li>⚡ Dato curioso: Me encanta aprender sobre nuevas tecnologías y compartir mis conocimientos con la comunidad.</li>
+</ul>
 
-Gracias por visitar mi perfil. ¡Espero colaborar contigo pronto!
+<p>Gracias por visitar mi perfil. ¡Espero colaborar contigo pronto!</p>
 
 <!--
 **SergioDavidFernandezVilla/SergioDavidFernandezVilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
