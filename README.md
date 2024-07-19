@@ -1,6 +1,6 @@
-## Hola, soy Sergio David Fernández Villa
-
 ✨ _Bienvenido a mi repositorio de GitHub_ ✨
+
+## Hola, soy Sergio David Fernández Villa
 
 ### Sobre mí
 
@@ -17,10 +17,6 @@ Soy un desarrollador apasionado con experiencia en React, Vite y Node.js como ba
 ### 📬 Contacto
 - 📫 Puedes contactarme a través de [tu correo electrónico o enlace de LinkedIn].
 - 💬 Pregúntame sobre desarrollo web, Rust, y CLI. ¡Estoy aquí para ayudar!
-
-### 🌟 Datos Curiosos
-- 😄 Pronombres: Él
-- ⚡ Dato curioso: Me encanta aprender sobre nuevas tecnologías y compartir mis conocimientos con la comunidad.
 
 Gracias por visitar mi perfil. ¡Espero colaborar contigo pronto!
 
