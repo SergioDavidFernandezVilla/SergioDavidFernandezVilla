@@ -8,24 +8,24 @@
 
 <h3>Tecnologías que conozco y utilizo</h3>
 
-<div style="display: flex; justify-content: space-around; align-items: center; margin-left: 20px;">
-  <span>
+<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
+  <span style="margin: 10px;">
     <img src="/icons/svg__react.svg" width="20" height="20" />
     <strong>React</strong>
   </span>
-  <span>
+  <span style="margin: 10px;">
     <img src="/icons/svg__javascript.svg" width="20" height="20" />
     <strong>JavaScript</strong>
   </span>
-  <span>
+  <span style="margin: 10px;">
     <img src="/icons/svg__node.svg" width="20" height="20" />
     <strong>Node.js</strong>
   </span>
-  <span>
+  <span style="margin: 10px;">
     <img src="/icons/svg__css.svg" width="20" height="20" />
     <strong>CSS</strong>
   </span>
-  <span>
+  <span style="margin: 10px;">
     <img src="/icons/svg__html.svg" width="20" height="20" />
     <strong>HTML</strong>
   </span>
