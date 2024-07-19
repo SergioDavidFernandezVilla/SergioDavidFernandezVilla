@@ -8,7 +8,7 @@ Soy un desarrollador apasionado con experiencia en React, Vite y Node.js como ba
 
 ### 🚀 Proyectos Actuales
 - 🔭 Actualmente estoy trabajando en una aplicación web con React y Vite, utilizando Node.js para el backend.
-- 📖 Estoy haciendo proyectos con su Frontend y backend, utilizando React, Node.j para continuar aprendiendo y mejorando mis habilidades en tecnologías frontend y backend.
+- 🛍 Estoy trabajando en un proyecto de una tienda en linea desde frontend incluyendo su respectivo backend.
 
 ### 🤝 Colaboración
 - 👯 Estoy buscando colaborar en proyectos de desarrollo web, especialmente aquellos que utilizan React y Node.js.
