@@ -4,89 +4,74 @@
 
 <h3>Sobre mí</h3>
 
-<p>Soy un desarrollador apasionado con experiencia en React, Vite y Node.js como backend. También tengo habilidades en CSS y HTML puro, y estoy continuamente aprendiendo y mejorando mis habilidades en tecnologías frontend y backend.</p>
+<p>Soy un desarrollador apasionado con experiencia en React, Vite y Node.js como backend. Poseo sólidas habilidades en CSS y HTML puro, y me encuentro en un proceso constante de aprendizaje y perfeccionamiento de mis competencias en tecnologías tanto de frontend como de backend.</p>
 
-### Tecnologías que conozco y utilizo
+<h3>Tecnologías que conozco y utilizo</h3>
 
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
   <span style="margin: 10px;">
     <img src="/icons/svg__react.svg" width="20" height="20" />
     <strong>React js</strong>
   </span>
-
-
   <span style="margin: 10px;">
     <img src="/icons/svg__javascript.svg" width="20" height="20" />
     <strong>JavaScript</strong>
   </span>
-
-
   <span style="margin: 10px;">
     <img src="/icons/svg__node.svg" width="20" height="20" />
     <strong>Node.js</strong>
   </span>
-
-  
   <span style="margin: 10px;">
     <img src="/icons/icon__astro.png" width="20" height="20" />
     <strong>Astro js</strong>
   </span>
-
   <span style="margin: 10px;">
     <img src="/icons/svg__css.svg" width="20" height="20" />
     <strong>CSS</strong>
   </span>
-
-
   <span style="margin: 10px;">
     <img src="/icons/svg__html.svg" width="20" height="20" />
     <strong>HTML</strong>
   </span>
 </div>
 
-### Otras Tecnologias que conozco y utilizo 💻
-
+<h3>Otras Tecnologías que conozco y utilizo 💻</h3>
 <ul>
   <li>
     <span style="margin: 10px;">
-    <img src="/icons/svg__python.svg" width="20" height="20" />
-    <strong>Python</strong>
-  </span>
+      <img src="/icons/svg__python.svg" width="20" height="20" />
+      <strong>Python</strong>
+    </span>
   </li>
-
   <li>
     <span style="margin: 10px;">
-    <img src="/icons/svg__c++.svg" width="20" height="20" />
-    <strong>C++</strong>
-  </span>
+      <img src="/icons/svg__c++.svg" width="20" height="20" />
+      <strong>C++</strong>
+    </span>
   </li>
-
   <li>
     <span style="margin: 10px;">
-    <img src="/icons/svg__rust.svg" width="20" height="20" />
-    <strong>Rust</strong>
-  </span>
+      <img src="/icons/svg__rust.svg" width="20" height="20" />
+      <strong>Rust</strong>
+    </span>
   </li>
-
   <li>
     <span style="margin: 10px;">
-    <img src="/icons/svg__java.svg" width="20" height="20" />
-    <strong>Java</strong>
-  </span>
-  </li> 
-
+      <img src="/icons/svg__java.svg" width="20" height="20" />
+      <strong>Java</strong>
+    </span>
+  </li>
 </ul>
-
 
 <h3>🚀 Proyectos Actuales</h3>
 <ul>
-  <li>🔭 Actualmente estoy trabajando en una aplicación web con React y Vite, utilizando Node.js para el backend.</li>
-  <li>🌱 Estoy aprendiendo sobre la instalación y configuración de OpenCV en sistemas Windows y explorando alternativas para el manejo de imágenes en Rust.</li>
+  <li>🔭 Actualmente estoy desarrollando una aplicación web utilizando React y Vite, con Node.js como backend.</li>
+  <li>🌱 Estoy en proceso de aprender sobre la instalación y configuración de OpenCV en sistemas Windows y explorando alternativas para el manejo de imágenes en Rust.</li>
 </ul>
 
 <h3>🤝 Colaboración</h3>
 <ul>
-  <li>👯 Estoy buscando colaborar en proyectos de desarrollo web, especialmente aquellos que utilizan React y Node.js.</li>
+  <li>👯 Estoy interesado en colaborar en proyectos de desarrollo web, especialmente aquellos que emplean React y Node.js.</li>
 </ul>
 
 <h3>📬 Contacto</h3>
