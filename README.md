@@ -1,5 +1,5 @@
 
-<img src="presentacion__git 1.png" width="100%" height="400px" />
+<img src="presentacion__git__edit.png" width="100%" />
 
 ## Soy un Desarrollador Web Frontend 💻
 
