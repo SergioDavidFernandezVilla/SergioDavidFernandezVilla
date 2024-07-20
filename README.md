@@ -4,14 +4,14 @@
 
 <h3>Sobre mí</h3>
 
-<p>Soy un desarrollador apasionado con experiencia en React, Vite y Node.js como backend. Poseo sólidas habilidades en CSS y HTML puro, y me encuentro en un proceso constante de aprendizaje y perfeccionamiento de mis competencias en tecnologías tanto de frontend como de backend.</p>
+<p>Desarrollador apasionado con experiencia en React, Vite y Node.js como backend. Poseo sólidas habilidades en CSS y HTML puro, y me encuentro en un proceso constante de aprendizaje y perfeccionamiento de mis competencias en tecnologías tanto de frontend como de backend.</p>
 
 <h3>Tecnologías que conozco y utilizo</h3>
 
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
   <span style="margin: 10px;">
     <img src="/icons/svg__react.svg" width="20" height="20" />
-    <strong>React js</strong>
+    <strong>React</strong>
   </span>
   <span style="margin: 10px;">
     <img src="/icons/svg__javascript.svg" width="20" height="20" />
@@ -23,7 +23,7 @@
   </span>
   <span style="margin: 10px;">
     <img src="/icons/icon__astro.png" width="20" height="20" />
-    <strong>Astro js</strong>
+    <strong>Astro</strong>
   </span>
   <span style="margin: 10px;">
     <img src="/icons/svg__css.svg" width="20" height="20" />
@@ -35,7 +35,7 @@
   </span>
 </div>
 
-<h3>💻 Otros lenguajes que conozco son: </h3>
+<h3>💻 Otros lenguajes que uso</h3>
 <ul>
   <li>
     <span style="margin: 10px;">
@@ -65,24 +65,24 @@
 
 <h3>🚀 Proyectos Actuales</h3>
 <ul>
-  <li>🔭 Actualmente estoy desarrollando una aplicación web utilizando React y Vite, con Node.js como backend.</li>
-  <li>🌱 Estoy en proceso de aprender sobre la instalación y configuración de OpenCV en sistemas Windows y explorando alternativas para el manejo de imágenes en Rust.</li>
+  <li>🔭 Desarrollando una aplicación web utilizando React y Vite, con Node.js como backend.</li>
+  <li>🌱 Aprendiendo sobre la instalación y configuración de OpenCV en sistemas Windows, y explorando alternativas para el manejo de imágenes en Rust.</li>
 </ul>
 
 <h3>🤝 Colaboración</h3>
 <ul>
-  <li>👯 Estoy interesado en colaborar en proyectos de desarrollo web, especialmente aquellos que emplean React y Node.js.</li>
+  <li>👯 Busco colaborar en proyectos de desarrollo web, especialmente aquellos que emplean React y Node.js.</li>
 </ul>
 
 <h3>📬 Contacto</h3>
 <ul>
-  <li>📧 Puedes contactarme a través de mi correo: <a href="mailto:sergiodavidfernandezdev@gmail.com">sergiodavidfernandezdev@gmail.com</a></li>
+  <li>📧 Puedes escribirme a: <a href="mailto:sergiodavidfernandezdev@gmail.com">sergiodavidfernandezdev@gmail.com</a></li>
   <li>💼 Mi perfil en LinkedIn: <a href="https://www.linkedin.com/in/sergio-david-fern%C3%A1ndez-villa-6b86b328b">Sergio David Fernández Villa</a></li>
 </ul>
 
 <h3>🌟 Datos Curiosos</h3>
 <ul>
-  <li>⚡ Dato curioso: Me encanta aprender sobre nuevas tecnologías y compartir mis conocimientos con la comunidad.</li>
+  <li>⚡ Me encanta aprender sobre nuevas tecnologías y compartir mis conocimientos con la comunidad.</li>
 </ul>
 
 <p>Gracias por visitar mi perfil. ¡Espero colaborar contigo pronto!</p>
