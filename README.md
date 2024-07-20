@@ -35,7 +35,7 @@
   </span>
 </div>
 
-<h3>Otras Tecnologías que conozco y utilizo 💻</h3>
+<h3>💻 Otros lenguajes que conozco son: </h3>
 <ul>
   <li>
     <span style="margin: 10px;">
