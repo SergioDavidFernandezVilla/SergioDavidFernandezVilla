@@ -79,7 +79,7 @@
   <li>💼 Mi perfil en LinkedIn: <a href="https://www.linkedin.com/in/sergio-david-fern%C3%A1ndez-villa-6b86b328b">Sergio David Fernández Villa</a></li>
 </ul>
 
-<h3>🌟 Datos Curiosos</h3>
+<h3>🌟 Dato Curioso</h3>
 <ul>
   <li>⚡ Me encanta aprender sobre nuevas tecnologías y compartir mis conocimientos con la comunidad.</li>
 </ul>
