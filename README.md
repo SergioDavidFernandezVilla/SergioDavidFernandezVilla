@@ -66,6 +66,9 @@
 <h3>🚀 Proyectos Actuales</h3>
 <ul>
   <li>🔭 Desarrollando una aplicación web utilizando React y Vite, con Node.js como backend.</li>
+ 
+  <li>🔭 Aprendiendo sobre diseño 3d y blender.</li>
+
 </ul>
 
 <h3>🤝 Colaboración</h3>
