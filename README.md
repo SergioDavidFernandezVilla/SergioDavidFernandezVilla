@@ -73,10 +73,6 @@
   <li>🔭 Actualmente estoy interesando en el mundo del diseño 3d y ando aprendiendo u practicando para mejorar mis hablidades. Junto con lo demas temas intereses que tengo para trabajar en conjunto y armonia.</li>
 </ul>
 
-<h3>🤝 Colaboración</h3>
-<ul>
-  <li>👯 Busco colaborar en proyectos de desarrollo web, especialmente aquellos que emplean React y Node.js.</li>
-</ul>
 
 <h3>📬 Contacto</h3>
 <ul>
