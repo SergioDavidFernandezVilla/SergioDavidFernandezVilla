@@ -1,4 +1,4 @@
-<img src="/images/presentacion__git__edit.png" width="100%" />
+
 
 <h2 style="text-align: center;">Soy un Desarrollador Web Frontend 💻</h2>
 
