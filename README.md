@@ -33,6 +33,11 @@
     <img src="/icons/svg__html.svg" width="20" height="20" />
     <strong>HTML</strong>
   </span>
+
+  <span style="margin: 10px;">
+    <img src="/icons/svg__html.svg" width="20" height="20" />
+    <strong>Spring Boot</strong>
+  </span>
 </div>
 
 <h3>💻 Otros lenguajes que uso</h3>
