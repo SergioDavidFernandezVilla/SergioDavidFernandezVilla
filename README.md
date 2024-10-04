@@ -1,6 +1,6 @@
 
 
-<h2 style="text-align: center;">Hola es un gusto verte por aqui 👋👋</h2>
+<h2 style="text-align: center;">Hola es un gusto verte por aqui 👋</h2>
 
 <h3>Sobre mí</h3>
 
