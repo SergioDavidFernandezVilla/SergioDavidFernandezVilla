@@ -34,10 +34,7 @@
     <strong>HTML</strong>
   </span>
 
-  <span style="margin: 10px;">
-   
-    <strong>Spring Boot</strong>
-  </span>
+
 </div>
 
 <h3>💻 Otros lenguajes que uso</h3>
