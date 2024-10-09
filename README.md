@@ -33,7 +33,10 @@
     <img src="/icons/svg__html.svg" width="20" height="20" />
     <strong>HTML</strong>
   </span>
-
+  <span style="margin: 10px;">
+    <img src="/icons/svg__html.svg" width="20" height="20" />
+    <strong>Next js</strong>
+  </span>
 
 </div>
 
