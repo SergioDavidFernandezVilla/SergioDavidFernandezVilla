@@ -34,7 +34,7 @@
     <strong>HTML</strong>
   </span>
   <span style="margin: 10px;">
-    <img src="/icons/svg__html.svg" width="20" height="20" />
+    <img src="https://www.svgrepo.com/show/368858/nextjs.svg" width="20" height="20" />
     <strong>Next js</strong>
   </span>
 
