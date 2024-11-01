@@ -1,93 +1,66 @@
+<h2 align="center">¡Hola! Es un gusto verte por aquí 👋</h2>
 
+### Sobre mí
 
-<h2 style="text-align: center;">Hola es un gusto verte por aqui 👋</h2>
+Desarrollador apasionado con experiencia en **React**, **Vite** y **Node.js** como backend. Poseo habilidades sólidas en **CSS** y **HTML puro**, y siempre estoy en un proceso constante de aprendizaje y perfeccionamiento de mis competencias en tecnologías frontend y backend.
 
-<h3>Sobre mí</h3>
+### Tecnologías que conozco y utilizo
 
-<p>Desarrollador apasionado con experiencia en React, Vite y Node.js como backend. Poseo sólidas habilidades en CSS y HTML puro, y me encuentro en un proceso constante de aprendizaje y perfeccionamiento de mis competencias en tecnologías tanto de frontend como de backend.</p>
-
-<h3>Tecnologías que conozco y utilizo</h3>
-
-<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
+<div align="center" style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
   <span style="margin: 10px;">
-    <img src="/icons/svg__react.svg" width="20" height="20" />
+    <img src="/icons/svg__react.svg" width="20" height="20" alt="React logo" />
     <strong>React</strong>
   </span>
   <span style="margin: 10px;">
-    <img src="/icons/svg__javascript.svg" width="20" height="20" />
+    <img src="/icons/svg__javascript.svg" width="20" height="20" alt="JavaScript logo" />
     <strong>JavaScript</strong>
   </span>
   <span style="margin: 10px;">
-    <img src="/icons/svg__node.svg" width="20" height="20" />
+    <img src="/icons/svg__node.svg" width="20" height="20" alt="Node.js logo" />
     <strong>Node.js</strong>
   </span>
   <span style="margin: 10px;">
-    <img src="/icons/icon__astro.png" width="20" height="20" />
+    <img src="/icons/icon__astro.png" width="20" height="20" alt="Astro logo" />
     <strong>Astro</strong>
   </span>
   <span style="margin: 10px;">
-    <img src="/icons/svg__css.svg" width="20" height="20" />
+    <img src="/icons/svg__css.svg" width="20" height="20" alt="CSS logo" />
     <strong>CSS</strong>
   </span>
   <span style="margin: 10px;">
-    <img src="/icons/svg__html.svg" width="20" height="20" />
+    <img src="/icons/svg__html.svg" width="20" height="20" alt="HTML logo" />
     <strong>HTML</strong>
   </span>
   <span style="margin: 10px;">
-    <img src="https://www.svgrepo.com/show/368858/nextjs.svg" width="20" height="20" />
-    <strong>Next js</strong>
+    <img src="https://www.svgrepo.com/show/368858/nextjs.svg" width="20" height="20" alt="Next.js logo" />
+    <strong>Next.js</strong>
   </span>
-
 </div>
 
-<h3>💻 Otros lenguajes que uso</h3>
+### 💻 Otros lenguajes que uso
+
 <ul>
-  <li>
-    <span style="margin: 10px;">
-      <img src="/icons/svg__python.svg" width="20" height="20" />
-      <strong>Python</strong>
-    </span>
-  </li>
-  <li>
-    <span style="margin: 10px;">
-      <img src="/icons/svg__c++.svg" width="20" height="20" />
-      <strong>C++</strong>
-    </span>
-  </li>
-  <li>
-    <span style="margin: 10px;">
-      <img src="/icons/svg__rust.svg" width="20" height="20" />
-      <strong>Rust</strong>
-    </span>
-  </li>
-  <li>
-    <span style="margin: 10px;">
-      <img src="/icons/svg__java.svg" width="20" height="20" />
-      <strong>Java</strong>
-    </span>
-  </li>
+  <li><img src="/icons/svg__python.svg" width="20" height="20" alt="Python logo" /> <strong>Python</strong></li>
+  <li><img src="/icons/svg__c++.svg" width="20" height="20" alt="C++ logo" /> <strong>C++</strong></li>
+  <li><img src="/icons/svg__rust.svg" width="20" height="20" alt="Rust logo" /> <strong>Rust</strong></li>
+  <li><img src="/icons/svg__java.svg" width="20" height="20" alt="Java logo" /> <strong>Java</strong></li>
 </ul>
 
-<h3>🚀 Proyectos Actuales</h3>
-<ul>
-  <li>🔭 Desarrollando una aplicación web utilizando React y Vite, con Node.js como backend.</li>
-</ul>
+### 🚀 Proyectos Actuales
 
-<h3>Situación Actual</h3>
-<ul>
-  <li>🔭 Actualmente estoy interesando en el mundo del diseño 3d y ando aprendiendo u practicando para mejorar mis hablidades. Junto con lo demas temas intereses que tengo para trabajar en conjunto y armonia.</li>
-</ul>
+- 🔭 Desarrollando una aplicación web utilizando **React** y **Vite** con **Node.js** como backend.
 
+### Situación Actual
 
-<h3>📬 Contacto</h3>
-<ul>
-  <li>📧 Puedes escribirme a: <a href="mailto:sergiodavidfernandezdev@gmail.com">sergiodavidfernandezdev@gmail.com</a></li>
-  <li>💼 Mi perfil en LinkedIn: <a href="https://www.linkedin.com/in/sergio-david-fern%C3%A1ndez-villa-6b86b328b">Sergio David Fernández Villa</a></li>
-</ul>
+- 🎨 Actualmente estoy explorando el diseño 3D, practicando y aprendiendo para mejorar mis habilidades en esta área, integrándolas con mis conocimientos de desarrollo.
 
-<h3>🌟 Dato Curioso</h3>
-<ul>
-  <li>⚡ Me encanta aprender sobre nuevas tecnologías y compartir mis conocimientos con la comunidad.</li>
-</ul>
+### 📬 Contacto
 
-<p>Gracias por visitar mi perfil. ¡Espero colaborar contigo pronto!</p>
+- 📧 Puedes escribirme a: [sergiodavidfernandezdev@gmail.com](mailto:sergiodavidfernandezdev@gmail.com)
+- 💼 Mi perfil en LinkedIn: [Sergio David Fernández Villa](https://www.linkedin.com/in/sergio-david-fern%C3%A1ndez-villa-6b86b328b)
+
+### 🌟 Dato Curioso
+
+- ⚡ Me encanta aprender sobre nuevas tecnologías y compartir mis conocimientos con la comunidad.
+
+¡Gracias por visitar mi perfil! ¡Espero colaborar contigo pronto!
