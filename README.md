@@ -1,4 +1,4 @@
-align="center">¡Hola! Es un gusto verte por aquí 👋</h2>
+# Hola! Es un gusto verte por aquí 👋
 
 ### Sobre mí
 
