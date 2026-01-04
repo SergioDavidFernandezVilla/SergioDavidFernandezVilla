@@ -1,4 +1,4 @@
-# 👋 Hola, soy Sergio (D)
+# 👋 Hola, Soy Sergio (D)
 
 Desarrollador enfocado en **AI aplicada**, con especial interés en **NLP y sistemas basados en LLMs**.  
 Construyo **pipelines reales**, no solo demos: ingestión de datos, RAG, APIs y sistemas listos para escalar.
@@ -32,8 +32,10 @@ Construyo **pipelines reales**, no solo demos: ingestión de datos, RAG, APIs y 
 - Manejo de datasets y flujos de ingestión
 
 **Frontend (supporting skill)**
-- React, Vite, Tailwind CSS
+- React, Vite, Tailwind CSS, Next js
 - HTML & CSS puro
+- TypeScript
+- Golang
 
 ---
 
