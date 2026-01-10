@@ -65,7 +65,7 @@ Sistema RAG production-ready con:
 
 **Tech Stack:** Python, FastAPI, FAISS, Sentence Transformers, Groq API, MongoDB
 
-[🔗 Ver proyecto](#https://github.com/SergioDavidFernandezVilla/PixAssis---Production-Ready-RAG-API-with-Hybrid-Search---Metrics) | [📖 Documentación](#https://github.com/SergioDavidFernandezVilla/PixAssis---Production-Ready-RAG-API-with-Hybrid-Search---Metrics)
+[🔗 Ver proyecto](https://github.com/SergioDavidFernandezVilla/PixAssis---Production-Ready-RAG-API-with-Hybrid-Search---Metrics)
 
 ---
 
