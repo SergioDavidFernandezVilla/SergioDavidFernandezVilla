@@ -1,126 +1,126 @@
-# 👋 Hola, soy Sergio (D)
+# 👋 Hi, I'm Sergio (D)
 
-Desarrollador especializado en **AI aplicada**, con enfoque en **NLP y sistemas basados en LLMs**.  
-Construyo **sistemas reales listos para producción**, no solo demos: pipelines RAG, ingestión de datos, APIs escalables y arquitecturas robustas.
-
----
-
-## 🎯 Perfil Profesional
-
-- 🧠 **AI / NLP Engineer** especializado en **sistemas LLM y RAG**
-- 🏗️ Diseño e implementación de **arquitecturas RAG end-to-end** con búsqueda híbrida, re-ranking y streaming
-- ⚙️ Backend orientado a producción con **Python**, **FastAPI** y diseño modular
-- 🔌 Integración de LLMs vía APIs (OpenAI, Anthropic, Groq), embeddings y búsqueda semántica
-- 📊 Experiencia en **evaluación, métricas y observabilidad** de sistemas de IA
-- 🔧 Desarrollo de **CLIs administrativos** para gestión de datasets y pipelines de ingestión
-- 💻 Background sólido en desarrollo web full-stack moderno
+Developer specialized in **Applied AI**, focused on **NLP and LLM-based systems**.  
+I build **production-ready systems**, not just demos: RAG pipelines, data ingestion, scalable APIs, and robust architectures.
 
 ---
 
-## 🧠 Stack Técnico
+## 🎯 Professional Profile
+
+- 🧠 **AI / NLP Engineer** specialized in **LLM and RAG systems**
+- 🏗️ Design and implementation of **end-to-end RAG architectures** with hybrid search, re-ranking, and streaming
+- ⚙️ Production-oriented backend with **Python**, **FastAPI**, and modular design
+- 🔌 LLM integration via APIs (OpenAI, Anthropic, Groq), embeddings, and semantic search
+- 📊 Experience in **evaluation, metrics, and observability** for AI systems
+- 🔧 Development of **administrative CLIs** for dataset management and ingestion pipelines
+- 💻 Solid background in modern full-stack web development
+
+---
+
+## 🧠 Tech Stack
 
 ### **AI / NLP**
-- Retrieval-Augmented Generation (RAG) con búsqueda híbrida
-- Vector stores (FAISS, Pinecone) y embeddings
-- Cross-encoder re-ranking para mejora de resultados
-- Text processing, chunking strategies y NLP pipelines
-- Prompting estructurado, chain-of-thought y control de outputs
-- Arquitecturas LLM-centric y agentic workflows
+- Retrieval-Augmented Generation (RAG) with hybrid search
+- Vector stores (FAISS, Pinecone) and embeddings
+- Cross-encoder re-ranking for result optimization
+- Text processing, chunking strategies, and NLP pipelines
+- Structured prompting, chain-of-thought, and output control
+- LLM-centric architectures and agentic workflows
 
 ### **Backend**
 - Python, FastAPI, WebSockets
-- APIs REST con streaming y rate limiting
+- REST APIs with streaming and rate limiting
 - OAuth integration (Google, GitHub)
-- Diseño modular, singleton patterns y arquitecturas escalables
-- Manejo de datasets, crawling (BeautifulSoup, Selenium) y flujos de ingestión
+- Modular design, singleton patterns, and scalable architectures
+- Dataset handling, web crawling (BeautifulSoup, Selenium), and ingestion flows
 - MongoDB, SQLAlchemy
 
-### **Observabilidad & DevOps**
-- Métricas y monitoring (ready para Prometheus/Grafana)
-- Error handling robusto y logging estructurado
-- Environment configuration y secrets management
+### **Observability & DevOps**
+- Metrics and monitoring (Prometheus/Grafana-ready)
+- Robust error handling and structured logging
+- Environment configuration and secrets management
 
 ### **Frontend** (supporting skill)
 - React, Next.js, Vite
 - TypeScript, Tailwind CSS
-- HTML & CSS moderno
+- Modern HTML & CSS
 
-### **Otros**
-- Golang (nivel intermedio)
+### **Others**
+- Golang (intermediate level)
 - Git, GitHub Actions
-- Docker (containerización básica)
+- Docker (basic containerization)
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Featured Projects
 
 ### **PixAssis RAG API**
-Sistema RAG production-ready con:
-- Búsqueda híbrida (FAISS + semántica/keyword)
-- Re-ranking con Cross-Encoder
-- Streaming en tiempo real
-- CLI administrativo para ingestión de datasets (PDF, web crawling)
-- OAuth, rate limiting y métricas completas
+Production-ready RAG system with:
+- Hybrid search (FAISS + semantic/keyword)
+- Cross-Encoder re-ranking
+- Real-time streaming
+- Administrative CLI for dataset ingestion (PDF, web crawling)
+- OAuth, rate limiting, and comprehensive metrics
 - Multi-source document support
 
 **Tech Stack:** Python, FastAPI, FAISS, Sentence Transformers, Groq API, MongoDB
 
-[🔗 Ver proyecto](https://github.com/SergioDavidFernandezVilla/PixAssis---Production-Ready-RAG-API-with-Hybrid-Search---Metrics)
+[🔗 View Project](https://github.com/SergioDavidFernandezVilla/PixAssis---Production-Ready-RAG-API-with-Hybrid-Search---Metrics)
 
 ---
 
-## 🎯 Qué estoy construyendo
+## 🎯 What I'm Building
 
-- ✅ Sistemas RAG con múltiples fuentes y estrategias de chunking optimizadas
-- ✅ Pipelines de ingestión automatizada con web crawling inteligente
-- ✅ Backends listos para producción con LLMs (OpenAI, Anthropic, Groq)
-- ✅ Arquitecturas con re-ranking, caching y optimización de latencia
-- 🔄 Frameworks de evaluación y testing para sistemas RAG
-- 🔄 Agentic workflows con tool calling y multi-step reasoning
-
----
-
-## 📈 Enfoque Actual
-
-Profundizando en:
-- Evaluación sistemática de RAG (RAGAS, custom metrics)
-- Optimización de retrieval (hybrid search tuning, semantic chunking)
-- Agentic architectures y autonomous workflows
-- Fine-tuning de embeddings para dominios específicos
-- Production monitoring y observability para sistemas LLM
+- ✅ RAG systems with multiple sources and optimized chunking strategies
+- ✅ Automated ingestion pipelines with intelligent web crawling
+- ✅ Production-ready backends with LLMs (OpenAI, Anthropic, Groq)
+- ✅ Architectures with re-ranking, caching, and latency optimization
+- 🔄 Evaluation and testing frameworks for RAG systems
+- 🔄 Agentic workflows with tool calling and multi-step reasoning
 
 ---
 
-## 🧠 Filosofía de Trabajo
+## 📈 Current Focus
 
-> No me interesa solo *usar* modelos, sino **entenderlos, medirlos y mejorarlos**.
-
-Mi objetivo es construir sistemas de IA que sean:
-- ✅ **Útiles**: Resuelven problemas reales del negocio
-- ✅ **Evaluables**: Con métricas claras y observabilidad
-- ✅ **Mantenibles**: Código limpio, modular y documentado
-- ✅ **Escalables**: Listos para producción desde el día uno
+Deepening my expertise in:
+- Systematic RAG evaluation (RAGAS, custom metrics)
+- Retrieval optimization (hybrid search tuning, semantic chunking)
+- Agentic architectures and autonomous workflows
+- Fine-tuning embeddings for specific domains
+- Production monitoring and observability for LLM systems
 
 ---
 
-## 📬 Contacto
+## 🧠 Work Philosophy
+
+> I'm not interested in just *using* models, but in **understanding, measuring, and improving them**.
+
+My goal is to build AI systems that are:
+- ✅ **Useful**: Solve real business problems
+- ✅ **Evaluable**: With clear metrics and observability
+- ✅ **Maintainable**: Clean, modular, and documented code
+- ✅ **Scalable**: Production-ready from day one
+
+---
+
+## 📬 Contact
 
 - 📧 Email: [sergiodavidfernandezdev@gmail.com](mailto:sergiodavidfernandezdev@gmail.com)
 - 💼 LinkedIn: [Sergio David Fernández Villa](https://www.linkedin.com/in/sergio-david-fern%C3%A1ndez-villa-6b86b328b)
-- 🐙 GitHub: Explorando mis proyectos activos
+- 🐙 GitHub: Exploring my active projects
 
 ---
 
-## 🎯 Abierto a Oportunidades
+## 🎯 Open to Opportunities
 
-Buscando roles en:
+Looking for roles in:
 - **AI / NLP Engineer**
 - **LLM Engineer**
-- **ML Engineer** (con enfoque en NLP/RAG)
+- **ML Engineer** (with NLP/RAG focus)
 - **Backend Engineer** (AI-focused teams)
 
-Interesado en proyectos que involucren RAG, sistemas conversacionales, document intelligence y arquitecturas LLM innovadoras.
+Interested in projects involving RAG, conversational systems, document intelligence, and innovative LLM architectures.
 
 ---
 
-⭐ **Tip:** Dale un vistazo a mis repositorios fijados para ver sistemas RAG completos en acción
+⭐ **Tip:** Check out my pinned repositories to see complete RAG systems in action
