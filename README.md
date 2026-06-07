@@ -1,126 +1,196 @@
-# 👋 Hi, I'm Sergio (D)
+# 👋 Hi, I'm Sergio David Fernández Villa
 
-Developer specialized in **Applied AI**, focused on **NLP and LLM-based systems**.  
-I build **production-ready systems**, not just demos: RAG pipelines, data ingestion, scalable APIs, and robust architectures.
+Backend-focused developer building practical, scalable systems with **Go**, **Clean Architecture**, **PostgreSQL**, **Docker**, and modern web technologies.
+
+I'm currently focused on two main areas:
+
+* Building **LoveShaders / GuideGameDev**, an educational SaaS for shaders, VFX, and game development.
+* Developing **Grand Blue**, an environmental data visualization and AI-oriented platform for marine data analysis.
+
+My long-term direction is to combine **backend engineering**, **data pipelines**, **AI/NLP**, and **simulation systems** to build software that is useful, technical, and production-oriented.
 
 ---
 
 ## 🎯 Professional Profile
 
-- 🧠 **AI / NLP Engineer** specialized in **LLM and RAG systems**
-- 🏗️ Design and implementation of **end-to-end RAG architectures** with hybrid search, re-ranking, and streaming
-- ⚙️ Production-oriented backend with **Python**, **FastAPI**, and modular design
-- 🔌 LLM integration via APIs (OpenAI, Anthropic, Groq), embeddings, and semantic search
-- 📊 Experience in **evaluation, metrics, and observability** for AI systems
-- 🔧 Development of **administrative CLIs** for dataset management and ingestion pipelines
-- 💻 Solid background in modern full-stack web development
+* 🏗️ Backend developer focused on **Go**, modular architecture, and maintainable systems.
+* 🧪 Strong interest in **testing**, clean code, and robust API design.
+* 🐘 Experience working with **PostgreSQL**, Docker environments, migrations, and repository patterns.
+* 🔐 Building authentication systems with JWT, refresh tokens, password hashing, and middleware.
+* 🌊 Exploring data pipelines and environmental data processing for marine analysis.
+* 🧠 Long-term focus on **AI, NLP, LLMs, RAG, and intelligent systems**.
+* 💻 Solid foundation in full-stack web development.
 
 ---
 
 ## 🧠 Tech Stack
 
-### **AI / NLP**
-- Retrieval-Augmented Generation (RAG) with hybrid search
-- Vector stores (FAISS, Pinecone) and embeddings
-- Cross-encoder re-ranking for result optimization
-- Text processing, chunking strategies, and NLP pipelines
-- Structured prompting, chain-of-thought, and output control
-- LLM-centric architectures and agentic workflows
-
 ### **Backend**
-- Python, FastAPI, WebSockets
-- REST APIs with streaming and rate limiting
-- OAuth integration (Google, GitHub)
-- Modular design, singleton patterns, and scalable architectures
-- Dataset handling, web crawling (BeautifulSoup, Selenium), and ingestion flows
-- MongoDB, SQLAlchemy
 
-### **Observability & DevOps**
-- Metrics and monitoring (Prometheus/Grafana-ready)
-- Robust error handling and structured logging
-- Environment configuration and secrets management
+* Go
+* REST APIs
+* Clean Architecture
+* Repository / Service / Handler patterns
+* Middleware
+* JWT authentication
+* Refresh token rotation
+* Password hashing
+* Error handling and validation
+* Unit testing and integration testing
 
-### **Frontend** (supporting skill)
-- React, Next.js, Vite
-- TypeScript, Tailwind CSS
-- Modern HTML & CSS
+### **Databases & Infrastructure**
 
-### **Others**
-- Golang (intermediate level)
-- Git, GitHub Actions
-- Docker (basic containerization)
+* PostgreSQL
+* Docker / Docker Compose
+* Database migrations
+* Testcontainers
+* Environment configuration
+* Git and GitHub
+
+### **Frontend**
+
+* React
+* Vite
+* TypeScript
+* HTML / CSS
+* Tailwind CSS
+
+### **Data & AI Direction**
+
+* Python for data processing
+* Pandas / Xarray basics
+* Environmental datasets
+* Data ingestion pipelines
+* Future focus: NLP, RAG, embeddings, LLM systems, and ML evaluation
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Current Projects
 
-### **PixAssis RAG API**
-Production-ready RAG system with:
-- Hybrid search (FAISS + semantic/keyword)
-- Cross-Encoder re-ranking
-- Real-time streaming
-- Administrative CLI for dataset ingestion (PDF, web crawling)
-- OAuth, rate limiting, and comprehensive metrics
-- Multi-source document support
+### **LoveShaders / GuideGameDev**
 
-**Tech Stack:** Python, FastAPI, FAISS, Sentence Transformers, Groq API, MongoDB
+An educational SaaS focused on shaders, VFX, and practical game development learning.
 
-[🔗 View Project](https://github.com/SergioDavidFernandezVilla/PixAssis---Production-Ready-RAG-API-with-Hybrid-Search---Metrics)
+The goal is to build a platform where users can learn graphics programming, shader concepts, visual effects, and game-dev workflows in a structured way.
+
+Current backend work includes:
+
+* User registration and login
+* JWT authentication
+* Refresh token rotation
+* Logout and session invalidation
+* User profile endpoints
+* PostgreSQL persistence
+* Clean Architecture structure
+* Unit testing with mocks
+* Repository tests with Testcontainers
+* Docker-based local development
+
+**Tech Stack:** Go, PostgreSQL, Docker, JWT, Clean Architecture, Testcontainers
+
+---
+
+### **Grand Blue**
+
+A platform focused on environmental marine data visualization and analysis.
+
+The MVP is oriented toward processing ocean-related datasets, visualizing regional marine data, and laying the foundation for future AI-based analysis.
+
+Current direction:
+
+* Marine data ingestion
+* NOAA / Copernicus-style dataset processing
+* Sea surface temperature visualization
+* Backend APIs for datasets, maps, and time series
+* Frontend dashboards for environmental data
+* Future AI modules for anomaly detection and prediction
+
+**Tech Stack:** Go, Python, PostgreSQL, React, Docker, environmental datasets
 
 ---
 
 ## 🎯 What I'm Building
 
-- ✅ RAG systems with multiple sources and optimized chunking strategies
-- ✅ Automated ingestion pipelines with intelligent web crawling
-- ✅ Production-ready backends with LLMs (OpenAI, Anthropic, Groq)
-- ✅ Architectures with re-ranking, caching, and latency optimization
-- 🔄 Evaluation and testing frameworks for RAG systems
-- 🔄 Agentic workflows with tool calling and multi-step reasoning
+* ✅ Backend systems with Go and Clean Architecture
+* ✅ Authentication flows with JWT and refresh tokens
+* ✅ PostgreSQL repositories with integration tests
+* ✅ Dockerized development environments
+* ✅ Educational SaaS architecture for game development learning
+* ✅ Environmental data pipelines for marine analysis
+* 🔄 Interactive dashboards for scientific/environmental data
+* 🔄 AI-assisted analysis modules
+* 🔄 NLP / LLM systems as part of my long-term specialization
 
 ---
 
 ## 📈 Current Focus
 
-Deepening my expertise in:
-- Systematic RAG evaluation (RAGAS, custom metrics)
-- Retrieval optimization (hybrid search tuning, semantic chunking)
-- Agentic architectures and autonomous workflows
-- Fine-tuning embeddings for specific domains
-- Production monitoring and observability for LLM systems
+Right now, I'm deepening my skills in:
+
+* Go backend development
+* Clean Architecture
+* API design
+* Testing strategies
+* PostgreSQL and migrations
+* Docker-based workflows
+* Data ingestion pipelines
+* Scientific/environmental data processing
+* NLP, LLMs, RAG, and applied AI foundations
 
 ---
 
 ## 🧠 Work Philosophy
 
-> I'm not interested in just *using* models, but in **understanding, measuring, and improving them**.
+> I don't want to build random demos. I want to build systems that are structured, useful, testable, and capable of growing.
 
-My goal is to build AI systems that are:
-- ✅ **Useful**: Solve real business problems
-- ✅ **Evaluable**: With clear metrics and observability
-- ✅ **Maintainable**: Clean, modular, and documented code
-- ✅ **Scalable**: Production-ready from day one
+My goal is to build software that is:
+
+* ✅ **Maintainable**: Clean structure, clear responsibilities, and readable code.
+* ✅ **Reliable**: Tested, validated, and designed with real use cases in mind.
+* ✅ **Scalable**: Built with architecture that can evolve over time.
+* ✅ **Useful**: Focused on solving practical problems, not just looking good.
+* ✅ **Technically serious**: Combining backend, data, AI, and long-term engineering depth.
+
+---
+
+## 🧭 Long-Term Direction
+
+My long-term goal is to grow into an engineer capable of building advanced systems involving:
+
+* Backend infrastructure
+* AI and NLP systems
+* RAG and LLM-based applications
+* Graphics engines
+* Scientific simulations
+* Environmental and marine data analysis
+* Intelligent systems for prediction and decision support
+
+I'm especially interested in the intersection between **software engineering**, **AI**, **graphics**, and **scientific simulation**.
 
 ---
 
 ## 📬 Contact
 
-- 📧 Email: [sergiodavidfernandezdev@gmail.com](mailto:sergiodavidfernandezdev@gmail.com)
-- 💼 LinkedIn: [Sergio David Fernández Villa](https://www.linkedin.com/in/sergio-david-fern%C3%A1ndez-villa-6b86b328b)
-- 🐙 GitHub: Exploring my active projects
+* 📧 Email: [sergiodavidfernandezdev@gmail.com](mailto:sergiodavidfernandezdev@gmail.com)
+* 💼 LinkedIn: [Sergio David Fernández Villa](https://www.linkedin.com/in/sergio-david-fern%C3%A1ndez-villa-6b86b328b)
+* 🐙 GitHub: [SergioDavidFernandezVilla](https://github.com/SergioDavidFernandezVilla)
 
 ---
 
 ## 🎯 Open to Opportunities
 
-Looking for roles in:
-- **AI / NLP Engineer**
-- **LLM Engineer**
-- **ML Engineer** (with NLP/RAG focus)
-- **Backend Engineer** (AI-focused teams)
+I'm interested in opportunities related to:
 
-Interested in projects involving RAG, conversational systems, document intelligence, and innovative LLM architectures.
+* **Backend Engineering**
+* **Go Backend Development**
+* **Full-Stack Development**
+* **AI-focused Backend Systems**
+* **Data Engineering foundations**
+* **NLP / LLM / RAG projects**
+* **Scientific or environmental software**
+
+I'm currently building the foundations to move toward more advanced AI, NLP, and simulation-based systems.
 
 ---
 
-⭐ **Tip:** Check out my pinned repositories to see complete RAG systems in action
+⭐ **Tip:** Check out my pinned repositories to see my current backend, SaaS, and experimental projects.
